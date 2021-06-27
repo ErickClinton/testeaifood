@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Hamburguer",
+        "description": "Pão, hamburguer, salada, tomate e picles",
+        "price": 14.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/hamburguer.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Pizza",
+        "description": "Pizza de rato da cidade",
+        "price": 25.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/pizza.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Coxinha",
+        "description": "Coxinha de bacon",
+        "price": 4.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/coxinha.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Coca-Cola",
+        "description": "Coca cola que vem com o especial, rato da cidade, assim como a pizza",
+        "price": 4.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/coca-cola.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Feijoada",
+        "description": "Feijoada muito daora, feito no capricho, com chouriço de rato da cidade",
+        "price": 19.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/feijoada.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Pastel",
+        "description": "Pastel de carne de rato da cidade",
+        "price": 3.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/pastel.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Lasanha",
+        "description": "Lasanha com presunto, derivado do rarissimo de rato da cidade",
+        "price": 21.99,
+        "image": "https://housi-images.s3.amazonaws.com/aifoodi/lasanha.jpg"
+      }
+    ]
+  }
