@@ -1,0 +1,18 @@
+*{
+    color: #444;
+    font-family: 'Poppins', sans-serif ;
+    list-style-type: none;
+    padding-bottom:0.25rem ;
+    background: #ffffff;
+}
+
+header {
+    text-align: center;    
+}
+
+.wrap {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
