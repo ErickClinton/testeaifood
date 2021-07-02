@@ -1,0 +1,59 @@
+
+section ul{
+    padding: 10px;
+    width: 30rem;
+    display: inline;
+}
+
+li p{
+    border: solid;
+    border-radius: 5px ;
+    width: 40%;
+    height: 20%;
+    margin-bottom: 1.25rem;
+    margin-left: 10rem;
+    text-align: left;
+    color:#363F5F;
+
+}
+
+li p:hover{
+    border-color: blue;
+}
+
+section img{
+    padding: 1%;
+    
+}
+
+.product img {
+    max-width: 400px;
+}
+
+strong {color:#000; font-weight: bold; font-size: 18px;}
+
+li.product {
+    border: 1px solid #00cccc;
+}
+
+.logo { max-width: 200px;}
+
+.repository-list {
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cardmargin {
+    margin-bottom: 20px;
+    max-width: 30rem;
+}
+
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

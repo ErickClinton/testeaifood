@@ -1,11 +1,9 @@
-import { Header } from './components/Header/index'
+import './style/global.css'
+import Routes from './Routes'
+
 export function App() {
   return (
-    <div className="App">
-       
-        <Header/>
-    </div>
-  );
+        <Routes />
+    )
 }
 
-export default App;
